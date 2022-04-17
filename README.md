@@ -1,2 +1,2 @@
-# devops_basic_linda_st
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Linda Stanga - repozitorijs DevOps pamati iesācējiem
